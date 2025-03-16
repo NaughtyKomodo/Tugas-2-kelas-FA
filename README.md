@@ -1,6 +1,6 @@
 Register
 
-[![register](https://i.ibb.co/Lzcn5NXv/register.png)](https://ibb.co/d0VGgmw7)
+[![Screenshot-2025-03-16-123354](https://i.ibb.co/ym0HhrdJ/Screenshot-2025-03-16-123354.png)](https://ibb.co/p62YWSbp)
 
 Login
 
